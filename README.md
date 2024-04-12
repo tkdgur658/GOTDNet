@@ -24,6 +24,6 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `main.ipynb`: IPYBN script file, containing the PyTorch implementation of the execution of the main experments.
+- `main.ipynb`: Ipynb script file, containing the PyTorch implementation of the execution of the main experiments.
 - `GOTDNet.py`: Python script file, containing the PyTorch implementation of the GOTDNet.
 - `README.md`: Markdown file explaining the model source code.
