@@ -6,7 +6,7 @@ The architecture was referencted by a manuscript entitled, "Deep Neural Network 
 This repository contains an official implementation of GOTDNet using PyTorch.<br/>
 
 
-## Model
+## Data preprocessing and Neural Network
 ![Local Image](GOTDNet.png "GOTDNet")
 ## Paper
 If you use this software for your research, please cite:
