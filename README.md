@@ -1,6 +1,6 @@
 # PyTorch Implementation of GOTDNet (Graves' Orbitopathy Treatment Decision Network)
  
-The architecture was referencted by a manuscript entitled, "Deep Neural Network with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves’ Orbitopathy Patients." 
+The preprocessing and architecture can be referenced by a manuscript entitled, "Deep Neural Network with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves’ Orbitopathy Patients." 
 
 ## Overview
 This repository contains an official implementation of GOTDNet using PyTorch.<br/>
